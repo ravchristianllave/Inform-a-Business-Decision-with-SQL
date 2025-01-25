@@ -30,7 +30,7 @@ This is a project from the Coursera - having all resources are retrieved from *h
 
 # Analysis of the Results
 
-# **GDP vs. Maximum Infection Rate**
+**GDP vs. Maximum Infection Rate**
 ![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/gdp-vs-inf.png)
 
 **Social Support vs. Maximum Infection Rate**
