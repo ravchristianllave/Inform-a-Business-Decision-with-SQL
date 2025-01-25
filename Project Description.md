@@ -30,7 +30,16 @@ This is a project from the Coursera - having all resources are retrieved from *h
 
 # Analysis of the Results
 
-# **GDP vs. Maximum Infection Rate**![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/gdp-vs-inf.png)**Social Support vs. Maximum Infection Rate**![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/ss-vs-inf.png)**Healthy Life vs. Maximum Infection Rate**![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/hl-vs-inf.png)**Insights**
+# **GDP vs. Maximum Infection Rate**
+![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/gdp-vs-inf.png)
+
+**Social Support vs. Maximum Infection Rate**
+![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/ss-vs-inf.png)
+
+**Healthy Life vs. Maximum Infection Rate**
+![undefined](https://cdn.mavenanalytics.io/public/profile/a891b370-5021-704e-8440-4d3d6fbf7625/projects/hl-vs-inf.png)
+
+**Insights**
 
 As we can see from the graphs generated through Python, maximum infection rates tends to increase with happiness factors scores. This sounds counterintuitive at first, but this is due to several factors. Countries with high world happiness scores have the following:
 
